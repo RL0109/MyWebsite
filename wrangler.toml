@@ -1,4 +1,4 @@
-name = "mywebsite"
+name = "my-website"
 main = "src/index.js"
 compatibility_date = "2026-02-26"
 
